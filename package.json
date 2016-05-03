@@ -1,0 +1,57 @@
+{
+  "name": "scaffold-begin",
+  "version": "1.0.0",
+  "description": "Full stack web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshaycool/react-express-exemplar.git"
+  },
+  "author": "ashah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaycool/react-express-exemplar/issues"
+  },
+  "homepage": "https://github.com/akshaycool/react-express-exemplar",
+  "dependencies": {
+    "browser-sync": "^2.12.5",
+    "browserify": "^13.0.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.29",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-bower-task": "~0.4",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-compass": "~0.2.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-htmlmin": "~0.1.3",
+    "grunt-contrib-imagemin": "~0.1.4",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-karma": "^0.10.1",
+    "grunt-sed": "~0.1.1",
+    "grunt-sonar-runner": "^2.4.3",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-coverage": "^0.2.7",
+    "karma-jasmine": "^0.3.5",
+    "karma-junit-reporter": "^0.2.2",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-requirejs": "^0.2.2",
+    "matchdep": "~0.1.1",
+    "react": "^15.0.2",
+    "reactify": "^1.1.1",
+    "requirejs": "2.1.11"
+  }
+}

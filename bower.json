@@ -1,0 +1,25 @@
+{
+  "name": "scaffold-begin",
+  "description": "Full stack web app",
+  "main": "index.js",
+  "authors": [
+    "ashah"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/akshaycool/react-express-exemplar",
+  "private": true,
+   "dependencies" : {
+    "express" : "~4.13.4",
+    "requirejs" : "2.1.11",
+    "jquery" : "~2.1.4",
+    "es6-shim":"~0.31.2",
+    "skeleton": "~2.0.4"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
